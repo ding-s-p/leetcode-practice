@@ -11,7 +11,7 @@ namespace Leetcode
     {
         public static void Main(string[] args)
         {
-            var res = ThreeSum_15.run(new int[] { -1, 0, 1, 2, -1, -4 });
+            var res = LetterCombinations_17.run("236");
             Console.WriteLine(res);
             Console.ReadKey();
         }
