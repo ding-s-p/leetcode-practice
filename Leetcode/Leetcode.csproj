@@ -43,12 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="_20_Valid_Parentheses.cs" />
     <Compile Include="ContainerWithMostWater_11.cs" />
+    <Compile Include="FourSum_18.cs" />
     <Compile Include="LetterCombinations_17.cs" />
     <Compile Include="LongestCommonPrefix_14.cs" />
     <Compile Include="PalindromeNumber_9.cs" />
+    <Compile Include="RemoveNthFromEnd_19.cs" />
+    <Compile Include="Substring_3.cs" />
     <Compile Include="ThreeSumClosest_16.cs" />
     <Compile Include="ThreeSum_15.cs" />
+    <Compile Include="TwoSum_1.cs" />
+    <Compile Include="_21_MergeTwoLists.cs" />
     <Compile Include="_RegularExpressionMatching_10.cs" />
     <Compile Include="ReverseInteger_7.cs" />
     <Compile Include="Run.cs" />
