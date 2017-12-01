@@ -55,6 +55,15 @@
     <Compile Include="ThreeSum_15.cs" />
     <Compile Include="TwoSum_1.cs" />
     <Compile Include="_21_MergeTwoLists.cs" />
+    <Compile Include="_23_MergeKLists.cs" />
+    <Compile Include="_24_SwapPairs.cs" />
+    <Compile Include="_25_ReverseKGroupClass1.cs" />
+    <Compile Include="_26_RemoveDuplicates.cs" />
+    <Compile Include="_27_RemoveElement.cs" />
+    <Compile Include="_28_StrStr.cs" />
+    <Compile Include="_29_Divide.cs" />
+    <Compile Include="_35_SearchInsert.cs" />
+    <Compile Include="_48_Fail_Rotate.cs" />
     <Compile Include="_RegularExpressionMatching_10.cs" />
     <Compile Include="ReverseInteger_7.cs" />
     <Compile Include="Run.cs" />
