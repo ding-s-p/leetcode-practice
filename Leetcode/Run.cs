@@ -11,10 +11,10 @@ namespace Leetcode
     {
         public static void Main(string[] args)
         {
-            var m = new int[] { 1 };
-            var res = _35_SearchInsert.run(m, 0);
-            //ListNode.print(res);
+            int[] digits = new int[] { 1, 2, 3, 1 };
+            var res = _198_Rob1.run(digits);
             Console.WriteLine(res);
+
             Console.ReadKey();
         }
     }

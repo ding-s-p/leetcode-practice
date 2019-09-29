@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="_121_MaxProfit1.cs" />
+    <Compile Include="_122_MaxProfit2.cs" />
+    <Compile Include="_198_HouseRobber.cs" />
+    <Compile Include="_198_Rob1.cs" />
     <Compile Include="_20_Valid_Parentheses.cs" />
     <Compile Include="ContainerWithMostWater_11.cs" />
     <Compile Include="FourSum_18.cs" />
@@ -63,7 +67,11 @@
     <Compile Include="_28_StrStr.cs" />
     <Compile Include="_29_Divide.cs" />
     <Compile Include="_35_SearchInsert.cs" />
+    <Compile Include="_38_CountAndSay.cs" />
     <Compile Include="_48_Fail_Rotate.cs" />
+    <Compile Include="_53_MaxSubArray.cs" />
+    <Compile Include="_58_LengthOfLastWord.cs" />
+    <Compile Include="_66_PlusOne.cs" />
     <Compile Include="_RegularExpressionMatching_10.cs" />
     <Compile Include="ReverseInteger_7.cs" />
     <Compile Include="Run.cs" />
